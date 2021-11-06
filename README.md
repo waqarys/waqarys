@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waqar Shaikh</h1>
 <h3 align="center">A passionate Scala backend developer from India</h3>
 
-- 🔭 I’m currently working on [pure-functional-webapp](https://github.com/waqarys/pure-functional-webapp.git)
+- 🔭 I’m currently working on [chat-app](https://github.com/waqarys/Chat-App.git)
 
 - 📝 I regularly write articles on [https://waqarys.github.io/waqar.github.io/](https://waqarys.github.io/waqar.github.io/)
 
