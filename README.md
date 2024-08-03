@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://waqarys.github.io/waqar.github.io/](https://waqarys.github.io/waqar.github.io/)
 
-- 💬 Ask me about **Scala, Cats, Functional Programming**
+- 💬 Ask me about **Java, Scala, Cats, Functional Programming**
 
 - 📫 How to reach me **waqaryshaikh@gmail.com**
 
